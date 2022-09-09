@@ -15,4 +15,4 @@
 
 ![snake gif](https://github.com/IvanRodriguesDev/IvanRodriguesDev/blob/output/github-contribution-grid-snake.svg)
 
-Apaixonado por programação e jogos digitais. Relacionamento amoroso com Back-and .net e Java. Desenhista de pixel arte nas horas vagas e amante de café ☕
+Apaixonado por programação e jogos digitais. Relacionamento amoroso com Back-and .net e Java. Desenhista de pixel arte nas horas vagas e amante de café
