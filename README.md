@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IvanRodriguesDev&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IvanRodriguesDev&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=da2528&text_color=3061e3&bg_color=0d1117" alt="Ivan Rodrigues github stats" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRodriguesDev&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRodriguesDev&layout=compact&hide_border=true&title_color=ffd78f&text_color=ffd78f&bg_color=0d1117" />
 </div>
