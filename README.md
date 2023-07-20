@@ -14,7 +14,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRodriguesDev&layout=compact&hide_border=true&title_color=ffd78f&text_color=ffd78f&bg_color=0d1117" />
 </div>
 
-
 <div align="center"> 
 <a href="https://www.instagram.com/_ivan9vic/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.youtube.com/@Ivan9vicGameDev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
